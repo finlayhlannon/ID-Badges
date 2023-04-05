@@ -2,6 +2,14 @@ body {
     background-color: white;
   }
 
+  header{
+    position: absolute;
+    font-size: 30px;
+    margin-top:0px;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
   .search-box {
     display: flex;
     justify-content: center;
