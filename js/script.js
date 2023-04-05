@@ -4,7 +4,7 @@ function handleSubmit(event) {
   event.preventDefault();
   var input = document.querySelector('.search-input');
   var id = input.value.trim();
-  var url = './badges/' + id + '.html';
+  var url = 'https://mybadges.vercel.app/badges/' + id + '.html';
   
   // check if the code is in the usedCodes array
   if (usedCodes.includes(id)) {
