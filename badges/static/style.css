@@ -54,7 +54,7 @@ body {
   justify-content: center;
   align-items: center;
   animation: fadeIn 0.5s ease-in-out forwards;
-  animation-delay: 2s;
+  animation-delay: 0s;
 }
 
 @keyframes fadeIn {
