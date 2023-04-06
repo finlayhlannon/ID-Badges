@@ -1,4 +1,4 @@
-var usedCodes = ["example","finlay", "Finlay", "hayes", "Hayes"]; // array to hold used codes
+var usedCodes = ["example","finlay","hayes"]; // array to hold used codes
 
 function handleSubmit(event) {
   event.preventDefault();
