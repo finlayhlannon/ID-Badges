@@ -62,28 +62,6 @@ body {
   to { opacity: 1; }
 }
 
-
-.ig{
-  position: absolute;
-  scale: 100%;
-  margin-top:50px;
-  margin-left:600px;
-}
-
-.fb{
-  position: absolute;
-  scale: 100%;
-  margin-top:50px;
-  margin-left:300px;
-}
-
-.twt{
-  position: absolute;
-  scale:150%;
-  margin-top:50px;
-  margin-left:900px;
-}
-
 .social-icons a {
   transition: all 0.3s ease-in-out;
   transform: scale(2%);
